@@ -1,0 +1,18 @@
+.header{
+    text-align: center;
+    background-color: fuchsia;
+}
+.navbar >a{
+   color: aliceblue;
+}
+.h1tag{
+    text-align: center;
+   margin-top: 10%;
+}
+body{
+    background-color: chartreuse;
+}
+.card{
+    margin: auto;
+    margin-top: 10%;
+}
