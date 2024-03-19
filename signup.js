@@ -19,6 +19,8 @@ if (existingUser) {
 } else {
     usersArray.push(newUser);
     console.log(`User ${newUser.username} added successfully.`);
+    
+        window.location.href = "Act.html";
 }
 
 console.log(usersArray);
