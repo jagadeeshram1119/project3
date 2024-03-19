@@ -25,7 +25,7 @@ console.log(usersArray);
 
 });
 const usersArray = [
-    { username: 'aa', password: 's123' },
+    { username: 'aa', password: '123' },
     { username: 'bb', password: '123' },
    
 ];
